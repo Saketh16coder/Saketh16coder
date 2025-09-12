@@ -18,7 +18,7 @@
 ## Featured projects
 
 
-- **Abnormal Behavior Detection** — CNN models (MobileNetV2, ResNet50) for public-space anomaly detection. 
+- **🚨 Abnormal Behavior Detection** — CNN models (MobileNetV2, ResNet50) for public-space anomaly detection. 
 - **🚕 Q Learning Taxi Simulation** — Designed an autonomous taxi system enhanced with passenger satisfaction rewards, energy/battery constraints, and weather dynamics while preserving original output structures.
 - **👩‍💻 Collaborative Code Editor with Live Chat** — Built a full-stack platform using React.js, Node.js, Socket.IO, and Firebase/MongoDB for synchronous code editing and live chat among multiple users.
 
