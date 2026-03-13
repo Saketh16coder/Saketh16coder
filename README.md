@@ -29,7 +29,7 @@
 ## Skills
 
 
-Python · Java · JavaScript · TensorFlow · PyTorch · React · Node.js · Docker · AWS · Oracle Cloud · Git · SQL · NoSQL
+Go . kafka . Python · Java · JavaScript · TensorFlow · PyTorch · React · Node.js · Docker · AWS · Oracle Cloud · Git · SQL · NoSQL
 
 
 
