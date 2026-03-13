@@ -1,7 +1,7 @@
 # Hi, I'm Saketh 👋
 
 
-**Student • ML & Full-Stack Developer**
+**Intern at Techmojo solutions**
 
 
 🎯 I build computer vision models, multi-agent systems, and full-stack demos that go from research → prototype → deploy.
